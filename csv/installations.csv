@@ -1,0 +1,3 @@
+,_id,timestamp,device_id,package_name,application_name,installation_status
+0,1,1411636822371.0,11e5f39d-3b9f-4efb-bc96-13e63276c08b,com.aware.plugin.ambient_noise,Ambient Noise,1
+1,2,1411636839092.0,11e5f39d-3b9f-4efb-bc96-13e63276c08b,com.aware.plugin.google.activity_recognition,Google Activity Recognition,1
